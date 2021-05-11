@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.Localization.schema.json",
+  "name.short": "FAQ App HU",
+  "name.full": "Magyar FAQ Plus App",
+  "description.short": "Gyakori kérdésekre válaszoló bot, mely összeköt szakértőkkel",
+  "description.full": "Egy barátságos chatbot amely megválaszol gyakori kérdéseket. Ha nem tud válaszolni egy kérdésre, akkor összeköt egy szakértővel, amint elérhető lesz",
+  "bots[0].commandLists[0].commands[0].title": "Körbejárás",
+  "bots[0].commandLists[0].commands[0].description": "Fő funkciók körbejárása",
+  "bots[0].commandLists[0].commands[1].title": "Kérdezz egy szakértőt",
+  "bots[0].commandLists[0].commands[1].description": "Kapcsolatba lépés szakértővel",
+  "bots[0].commandLists[0].commands[2].title": "Visszajelzés megosztása",
+  "bots[0].commandLists[0].commands[2].description": "Visszajelzés küldése"
+}
